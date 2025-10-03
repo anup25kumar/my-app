@@ -13,5 +13,6 @@ public class Main {
         System.out.println("fetch example");
         System.out.println("fetch-merge example");
         System.out.println("git pull example");
+        System.out.println("git push from local to remote example");
     }
 }
